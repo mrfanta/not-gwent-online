@@ -7,7 +7,7 @@ Config.Server = {
 };
 
 Config.WebServer = {
-  "port": 3000
+  "port": 80
 };
 
 Config.Gwent = {
